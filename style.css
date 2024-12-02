@@ -1,0 +1,36 @@
+.drejtohu{
+    display: flex;
+}
+.kryesori{
+    
+
+}
+
+img{
+    height: 25px;
+    margin: 10px;
+}
+input{
+    background-color: rgb(37, 33, 25);
+    border-radius: 10px;
+    border-color: rgb(150, 103, 194) ;
+}
+
+.telefoni{
+    display: flex;
+    }
+    .mail{
+        display: flex;
+    }
+    .lokacioni{
+        display: flex;
+    }
+    body{
+        background-color: rgb(0, 0, 85);
+    }
+    .main{
+        display: flex;
+    }
+    .bardhe{
+        color: white;
+    }
